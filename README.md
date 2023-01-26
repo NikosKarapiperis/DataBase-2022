@@ -1,5 +1,5 @@
 # DataBase-2022
-This is a project i had to implement in the course of Databases[2021-2022]. I had to use SQL in order to create database for the management of car workshops.
+This is a project i had to implement in the course of Databases[2021-2022]. I had to use mySQL in order to create database for the management of car workshops.
 
  Η παρούσα αναφορά αποτελεί μέρος της 2ης εργασίας στο μάθημα “Βάσεις Δεδομένων” του τμήματος Πληροφορικής και Τηλεματικής του Χαροκόπειου Πανεπιστημίου, για το ακαδημαϊκό έτος 2021-22.  
  
